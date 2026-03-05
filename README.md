@@ -134,3 +134,38 @@
 
 </body>
 </html>
+<a href="#register">Register</a><nav>
+    <a href="#about">About</a>
+    <a href="#activities">Activities</a>
+    <a href="#poetry">Poetry</a>
+    <a href="#contact">Contact</a>
+    <a href="#register">Register</a>
+</nav><section id="register">
+    <h2>Join Green Warriors</h2>
+    <div class="card">
+        <form>
+            <label>Name:</label><br>
+            <input type="text" placeholder="Enter your name" required><br><br>
+
+            <label>Email:</label><br>
+            <input type="email" placeholder="Enter your email" required><br><br>
+
+            <label>Why do you want to join?</label><br>
+            <textarea placeholder="Write your message"></textarea><br><br>
+
+            <button type="submit">Register</button>
+        </form>
+    </div>
+</section>input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+button {
+    background-color: #2e8b57;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}u
