@@ -169,3 +169,149 @@ button {
     border: none;
     cursor: pointer;
 }u
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vishnu Sahasranamam</title>
+
+<style>
+
+body{
+    margin:0;
+    font-family: Georgia, serif;
+    background:#fffaf0;
+    text-align:center;
+}
+
+/* Temple style border */
+.container{
+    border:10px solid #b8860b;
+    margin:15px;
+    padding:20px;
+    border-radius:15px;
+    background:#fff;
+}
+
+/* Title style */
+.title{
+    font-size:42px;
+    font-weight:bold;
+    background:gold;
+    padding:12px;
+    border-radius:10px;
+    display:inline-block;
+}
+
+/* Symbol decorations */
+.symbols{
+    font-size:28px;
+    margin:10px;
+}
+
+.section{
+    margin:25px;
+    padding:20px;
+    background:#fff8dc;
+    border-radius:10px;
+    border:2px solid #daa520;
+}
+
+footer{
+    background:#8b0000;
+    color:white;
+    padding:20px;
+    font-size:22px;
+    font-weight:bold;
+}
+
+img{
+    width:220px;
+    margin-top:10px;
+}
+
+a{
+    font-size:18px;
+    color:#8b0000;
+    font-weight:bold;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="symbols">🕉️ ☸️ 🐚 🕉️ ☸️ 🐚</div>
+
+<div class="title">VISHNU SAHASRANAMAM</div>
+
+<div class="symbols">🐚 ☸️ 🕉️ ☸️ 🐚</div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Vishnu_with_Lakshmi.jpg">
+
+<div class="section">
+
+<h2>Origin Story (English)</h2>
+
+<p>
+Vishnu Sahasranamam means the thousand sacred names of Lord Vishnu.
+It appears in the Mahabharata in the Anushasana Parva. After the Kurukshetra war,
+King Yudhishthira asked Bhishma about the greatest dharma and the best path
+to attain peace and liberation. Bhishma replied by reciting the thousand names
+of Lord Vishnu and explained their divine significance. Devotees believe
+that chanting these names brings peace, protection, prosperity, and
+spiritual strength.
+</p>
+
+</div>
+
+<div class="section">
+
+<h2>విష్ణు సహస్రనామం ఆవిర్భావ కథ (Telugu)</h2>
+
+<p>
+విష్ణు సహస్రనామం అంటే శ్రీ మహావిష్ణువు యొక్క వెయ్యి పవిత్ర నామాలు.
+ఇది మహాభారతంలోని అనుశాసన పర్వంలో ఉంటుంది. కురుక్షేత్ర యుద్ధం తర్వాత
+యుధిష్ఠిరుడు భీష్ముడిని ధర్మంలో అత్యుత్తమమైనది ఏమిటి అని అడిగాడు.
+అప్పుడు భీష్ముడు శ్రీ మహావిష్ణువు యొక్క సహస్ర నామాలను జపిస్తూ
+వాటి మహిమను వివరించాడు. భక్తితో ఈ నామాలను జపిస్తే శాంతి,
+ఆరోగ్యం, ఐశ్వర్యం మరియు ఆధ్యాత్మిక శక్తి కలుగుతాయని నమ్మకం.
+</p>
+
+</div>
+
+<div class="section">
+
+<h2>Vishnu Sahasranamam PDF</h2>
+
+<p>Click below to open the PDF</p>
+
+<a href="vishnu_sahasranamam.pdf" target="_blank">
+Open Vishnu Sahasranamam PDF
+</a>
+
+</div>
+
+<div class="section">
+
+<h2>Contact Details</h2>
+
+<p>
+<b>Ponnaganti Rama Chandra</b><br>
+📞 9885504824<br>
+📧 ponnagantirama100@gmail.com
+</p>
+
+</div>
+
+</div>
+
+<footer>
+🕉️ OM NAMO NARAYANAAYA 🕉️
+</footer>
+
+</body>
+</html>
