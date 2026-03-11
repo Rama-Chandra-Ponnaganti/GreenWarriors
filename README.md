@@ -289,8 +289,8 @@ spiritual strength.
 
 <p>Click below to open the PDF</p>
 
-<a href="vishnu_sahasranamam.pdf" target="_blank">
-Open Vishnu Sahasranamam PDF
+<a href="https://www.visvasvsn.org/assets/img/PdfImg/VSN/VSN_Telugu.pdf
+Open Vishnu Sahasranamam PDF">
 </a>
 
 </div>
